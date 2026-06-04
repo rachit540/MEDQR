@@ -1,0 +1,127 @@
+{
+  "profiles": [
+    {
+      "email": "test@gmail.com",
+      "password": "testtest",
+      "fullName": "Rachit Srivastava",
+      "dateOfBirth": "2005-08-06",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "allergies": [
+        {
+          "allergen": "perfume smell",
+          "severity": "Mild"
+        }
+      ],
+      "conditions": [
+        "nothing"
+      ],
+      "medications": [
+        {
+          "name": "paracetamol",
+          "dosage": "",
+          "frequency": ""
+        }
+      ],
+      "organDonor": false,
+      "emergencyContacts": [],
+      "doctorName": "",
+      "doctorPhone": "",
+      "profileUuid": "6d1999cd-e334-4654-bf15-0bf2cb1c27fe"
+    },
+    {
+      "email": "test@test.com",
+      "password": "123456",
+      "fullName": "Test User",
+      "dateOfBirth": "",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "allergies": [],
+      "conditions": [],
+      "medications": [
+        {
+          "name": "none",
+          "dosage": "",
+          "frequency": ""
+        }
+      ],
+      "organDonor": false,
+      "emergencyContacts": [],
+      "doctorName": "",
+      "doctorPhone": "",
+      "profileUuid": "85e20b34-3413-4f5b-8df1-32e6af3cf3f7"
+    },
+    {
+      "email": "hello@hello.com",
+      "password": "123456",
+      "fullName": "hello",
+      "dateOfBirth": "",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "allergies": [
+        {
+          "allergen": "none",
+          "severity": "Mild"
+        }
+      ],
+      "conditions": [],
+      "medications": [
+        {
+          "name": "none",
+          "dosage": "",
+          "frequency": ""
+        }
+      ],
+      "organDonor": false,
+      "emergencyContacts": [
+        {
+          "name": "hello",
+          "relation": "",
+          "phone": "9876543210"
+        }
+      ],
+      "doctorName": "",
+      "doctorPhone": "",
+      "profileUuid": "f4dec619-6449-47a7-a86b-bd13ebc11517"
+    },
+    {
+      "email": "rachit@gmail.com",
+      "password": "1234",
+      "fullName": "rachot",
+      "dateOfBirth": "2007-02-28",
+      "gender": "Male",
+      "bloodGroup": "AB-",
+      "allergies": [
+        {
+          "allergen": "gluten",
+          "severity": "Life-threatening"
+        }
+      ],
+      "conditions": [
+        "piles,prostate cancer"
+      ],
+      "medications": [],
+      "organDonor": true,
+      "emergencyContacts": [],
+      "doctorName": "",
+      "doctorPhone": "",
+      "profileUuid": "f3e070ec-70c9-4e7c-a9bf-50867bffc429"
+    },
+    {
+      "email": "test123@gmail.com`",
+      "password": "123456",
+      "fullName": "rsgdi",
+      "dateOfBirth": "2026-04-09",
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "allergies": [],
+      "conditions": [],
+      "medications": [],
+      "organDonor": false,
+      "emergencyContacts": [],
+      "doctorName": "",
+      "doctorPhone": "",
+      "profileUuid": "83795678-2449-47f9-8a38-d2eaac89620a"
+    }
+  ]
+}
