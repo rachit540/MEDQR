@@ -81,7 +81,7 @@ MedQR/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rachit540/YOUR_REPO_NAME.git
+git clone https://github.com/rachit540/MEDQR.git
 cd MEDQR
 ```
 
@@ -145,7 +145,7 @@ User registers → Fills medical profile → Gets unique QR code
 
 ## 🔒 Security Note
 
-> This project is currently in development. Passwords are stored in plaintext in the local JSON database. Before deploying to production, implement proper password hashing (bcrypt) and switch to a production database like MongoDB.
+User passwords are encrypted using **bcryptjs** (with salt rounds) before being saved to the database. For full scale production deployments, it is recommended to transition from the lightweight local JSON database (LowDB) to a production-grade database such as MongoDB or PostgreSQL.
 
 ---
 
